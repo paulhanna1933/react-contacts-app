@@ -1,0 +1,68 @@
+.contact-button{
+  /* padding: 24px; */
+  position: fixed;
+  z-index: 1;
+}
+
+.signin-avatar {
+  margin: 0;
+  color: white;
+  cursor: pointer;
+}
+
+.user-modal {
+  top: 65px !important;
+  left: 940px !important;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  padding: 0 !important;
+  width: 20% !important;
+}
+
+.profile-list-items:hover {
+  background-color: #f5f5f5;
+}
+
+
+
+.modal-bottom {
+  background: #f5f5f5;
+  border-top: 1px solid grey;
+}
+
+.drawer {
+  position: fixed !important;
+}
+
+.contact-button .FABButton {
+  box-shadow: 3px 3px 5px  rgba(0,0,0,0.4);
+  color: white;
+  background: #e53935;
+  background: -webkit-linear-gradient(to right, #e35d5b, #e53935);
+  background: linear-gradient(to right, #e35d5b, #e53935);
+}
+
+.navbar{
+  background: #0575E6;
+  background: -webkit-linear-gradient(to right, #021B79, #0575E6);
+  background: linear-gradient(to right, #021B79, #0575E6);
+  position: fixed;
+}
+
+.avatar{
+  background: white;
+  border-radius: 50%;
+}
+
+.notifcation{
+  border-radius: 50%;
+  color: blue;
+  background-color: white;
+  height: 30px;
+  width: 30px;
+}
+
+.contact-list-search{
+  padding-left: 50px;
+  padding-right: 50px;
+}
