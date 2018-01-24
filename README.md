@@ -7,7 +7,7 @@ Simple contacts application using React cli create-react-app. I built the majori
 * json-server
 
 # Start App
-Clone repo, install and run:
+Clone repo, install, cd into folder and run:
 ```git
 npm install
 npm start
